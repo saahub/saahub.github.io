@@ -1,10 +1,12 @@
     $(document).ready(function() {
    if( ! $('#myCanvas').tagcanvas({
      textColour : '#000',
+     textFont: 'IBM Plex Serif',
      outlineThickness : 0.5,
-     outlineColour : '#1ab99f',
+     outlineColour : '#000',
      maxSpeed : 0.06,
      depth : 0.8,
+     noSelect:true,
      freezeActive:true,
       freezeDecel:true,
       shuffleTags:true,
