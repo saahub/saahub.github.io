@@ -1,6 +1,6 @@
     $(document).ready(function() {
    if( ! $('#myCanvas').tagcanvas({
-     textColour : '#1ab99f',
+     textColour : '#000',
      outlineThickness : 0.5,
      outlineColour : '#1ab99f',
      maxSpeed : 0.06,

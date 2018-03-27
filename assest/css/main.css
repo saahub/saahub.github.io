@@ -1,6 +1,21 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: 'IBM Plex Serif', serif;
+}
+
 h1 {
-  color:#1ab99f;
-  padding: 62px;
+  color:#000;
+  padding: 0.7em;
+  margin-top: 0px;
+}
+
+h2{
+  margin:-4,22rem;
+}
+.ha{
+  padding-top: 30px;
 }
 
 .fondo {
@@ -18,15 +33,32 @@ section {
 }
 
 
+.hover08 figure img {
+  -webkit-filter: grayscale(100%);
+  filter: grayscale(100%);
+  -webkit-transition: .3s ease-in-out;
+  transition: .3s ease-in-out;
+  width: 130px;
+  height: 130px;
+}
+.hover08 figure:hover img {
+  -webkit-filter: grayscale(0);
+  filter: grayscale(0);
+}
+
+
 #proyect {
     width: 100%;
   height: auto;
+
 }
 .main {
     width: 90%;
     margin: 0 ;
     position: relative;
 }
+
+
 
 .ch-grid {
   margin: 20px 0 0 0;
@@ -40,9 +72,11 @@ section {
 .ch-grid:after,
 .ch-item:before {
   content: '';
-    display: table;
 }
 
+a {
+  font-weight: 20px;
+}
 .ch-grid:after {
   clear: both;
 }
@@ -168,7 +202,10 @@ i {
   font-size: 12px;
   border-top: 1px solid rgba(255,255,255,0.5);
 }
-
+ .brand-logo{
+  width: 20px;
+  height: auto;
+ }
 
 .ch-info p a {
   display: block;
@@ -187,6 +224,10 @@ i {
   color: #08fdd8;
 }
 
+#desborde {
+  overflow: hidden;
+  background-color: #616161;
+}
 
 .ch-item:hover .ch-info-front {
   -webkit-transform: rotate3d(1,0,0,-180deg);
@@ -213,3 +254,21 @@ i {
   height: 100vh;
  }
 
+#skills {
+  background-color: #9e9e9e;
+}
+#about {
+  background-color: #424242;
+  height: 100vh;
+}
+
+#projects {
+  background-color: #616161;
+}
+
+#contact{
+  background-color: #757575;
+}
+img{
+  width: 80%;
+}
