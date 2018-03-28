@@ -274,3 +274,21 @@ i {
 img{
   width: 80%;
 }
+
+@media (max-width: 500px)  {
+  #about .center {
+    padding:0;
+    margin:0;
+  }
+
+  #about .picture {
+    margin:2em; {
+      padding-left:2em;
+  }
+
+  
+}
+
+}
+
+@media (max-width:  )
