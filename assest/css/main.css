@@ -60,7 +60,7 @@ section {
 }
 .main {
     width: 90%;
-    margin: 0 ;
+    margin: 0;
     position: relative;
 }
 
@@ -285,7 +285,7 @@ img{
     width: 9em;
   }
 
-  #skills #myCanvasContainer {
+  #skills #myCanvas {
     width: 260px;
     height: 260px;
   }
