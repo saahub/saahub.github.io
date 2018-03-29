@@ -285,5 +285,10 @@ img{
     width: 9em;
   }
 
+  #skills #myCanvas {
+    width: 260px;
+    height: 260px;
+  }
+
 }
 
