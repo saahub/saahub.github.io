@@ -1,3 +1,3 @@
 ## Portfolio
 
-![Portafolio](assets/css/img/potfolio/portfolio.jpg)
+![Portafolio](assets/css/img/portfolio.jpg)
