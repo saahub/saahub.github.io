@@ -7,7 +7,7 @@
 
 h1 {
   color:#fff;
-  padding: 0.9em;
+  padding: 0.8em;
   margin-top: 0px;
   margin-bottom: 0px;
 }
@@ -281,19 +281,9 @@ img{
 }
 
 @media (max-width: 500px)  {
-  #about .center {
-    padding:0;
-    margin:0;
+  #contact .carousel-item {
+    width: 150px;
   }
-
-  #about .picture {
-    margin:2em; {
-      padding-left:2em;
-  }
-
-  
-}
 
 }
 
-@media (max-width:  )
