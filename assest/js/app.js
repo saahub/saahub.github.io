@@ -1,7 +1,7 @@
     $(document).ready(function() {
    if( ! $('#myCanvas').tagcanvas({
-     textColour : '#000',
-     textFont: 'IBM Plex Serif',
+     textColour : '#FFF',
+     textFont: 'Oswald',
      outlineThickness : 0.5,
      outlineColour : '#000',
      maxSpeed : 0.06,
@@ -24,8 +24,6 @@
     setInterval(function() {
     $('.carousel').carousel('next');
   }, 2000);
-
-     $('.parallax').parallax();
 
     window.sr = ScrollReveal({ reset: true , viewOffset: { top: 50, right: 0, bottom: 0, left: 0 },});
 sr.reveal('.reveal', { duration: 2000 });
