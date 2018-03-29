@@ -25,8 +25,8 @@
     $('.carousel').carousel('next');
   }, 2000);
 
-    window.sr = ScrollReveal({ reset: true , viewOffset: { top: 50, right: 0, bottom: 0, left: 0 },});
-sr.reveal('.reveal', { duration: 2000 });
+   /* window.sr = ScrollReveal({ reset: true , viewOffset: { top: 50, right: 0, bottom: 0, left: 0 },});
+sr.reveal('.reveal', { duration: 2000 });*/
     });
 
 

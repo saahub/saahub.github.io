@@ -1,6 +1,6 @@
 ## Portfolio
 
-![portafolio](assets/css/img/portfolio1.jpg)
+![portafolio](assets/css/img/FireShotCapture.png)
 
 :smile: [Carolina Saavedra](https://github.com/saahub)
 
