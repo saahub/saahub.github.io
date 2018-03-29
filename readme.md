@@ -1,4 +1,6 @@
 ## Portfolio
 
-![portafolio](assets/css/img/portfolio.jpg)
+![portafolio](assets/css/img/portfolio1.jpg)
+
+:smile: [Carolina Saavedra](https://github.com/saahub)
 
