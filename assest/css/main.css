@@ -7,7 +7,7 @@
 
 h1 {
   color:#fff;
-  padding: 0.8em;
+  padding: 0.9em;
   margin-top: 0px;
   margin-bottom: 0px;
 }
@@ -282,7 +282,7 @@ img{
 
 @media (max-width: 500px)  {
   #contact .carousel-item {
-    width: 150px;
+    width: 9em;
   }
 
 }
